@@ -1,9 +1,12 @@
-langchain
+langchain 
+langchain-openai 
+langchain-text-splitters
 langchain-community
 langchain_groq
 chromadb
 streamlit
-pandas
+numpy==1.26.4
+pandas==2.1.4
 python-dotenv
 sentence-transformers
 langchain_huggingface
